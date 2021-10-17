@@ -1,4 +1,4 @@
-package com.devlomose.app.ms.items;
+package com.devlomose.app.ms.item;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
